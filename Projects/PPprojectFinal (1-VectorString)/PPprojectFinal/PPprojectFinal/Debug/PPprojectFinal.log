@@ -1,0 +1,14 @@
+﻿  file.cpp
+c1xx : warning C4199: la ricerca del nome in due fasi non è supportata per C++/CLI, C++/CX o OpenMP. Usare /Zc:twoPhase-
+c:\users\massi\source\repos\ppprojectfinal\ppprojectfinal\file.cpp(37): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  main.cpp
+c1xx : warning C4199: la ricerca del nome in due fasi non è supportata per C++/CLI, C++/CX o OpenMP. Usare /Zc:twoPhase-
+c:\users\massi\source\repos\ppprojectfinal\ppprojectfinal\main.cpp(23): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\massi\source\repos\ppprojectfinal\ppprojectfinal\main.cpp(40): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\massi\source\repos\ppprojectfinal\ppprojectfinal\main.cpp(56): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  stageWrappers.cpp
+c1xx : warning C4199: la ricerca del nome in due fasi non è supportata per C++/CLI, C++/CX o OpenMP. Usare /Zc:twoPhase-
+  utils.cpp
+c1xx : warning C4199: la ricerca del nome in due fasi non è supportata per C++/CLI, C++/CX o OpenMP. Usare /Zc:twoPhase-
+  Generazione del codice in corso...
+  PPprojectFinal.vcxproj -> C:\Users\massi\source\repos\PPprojectFinal\Debug\PPprojectFinal.exe
